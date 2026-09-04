@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PicoCTF 2026 on R4shSec</title>
+    <link>https://r4shsec.is-a.dev/tags/picoctf-2026/</link>
+    <description>Recent content in PicoCTF 2026 on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Sun, 12 Apr 2026 15:13:40 +0800</lastBuildDate><atom:link href="https://r4shsec.is-a.dev/tags/picoctf-2026/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>picoCTF WriteUp | ping-cmd</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/ping_cmd/</link>
+      <pubDate>Sun, 12 Apr 2026 15:13:40 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/ping_cmd/</guid>
+      <description>This is a picoCTF WriteUp for picoCTF 2026 ping-cmd.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/ping_cmd/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

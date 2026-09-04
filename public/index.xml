@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R4shSec</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Tue, 11 Aug 2026 14:41:55 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Connecting To Snowflake May Deanonymize You.</title>
+      <link>http://localhost:1313/posts/how_connecting_to_snowflake_may_anonymize_you/</link>
+      <pubDate>Tue, 11 Aug 2026 14:41:55 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/how_connecting_to_snowflake_may_anonymize_you/</guid>
+      <description>This blog post covers the privacy risks when connecting to the Tor network via a Snowflake bridge.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_connecting_to_snowflake_may_anonymize_you/feature.png" />
+    </item>
+    
+    <item>
+      <title>Reverse Engineering The Mini Shai-Hulud Worm &amp; Defense (Part 2)</title>
+      <link>http://localhost:1313/posts/mini_shai_hulud_reverse_engineering_part_2/</link>
+      <pubDate>Wed, 20 May 2026 21:21:56 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/mini_shai_hulud_reverse_engineering_part_2/</guid>
+      <description>This blog provides details regarding the second variant of the Mini Shai-Hulud Worm after a cybersecurity researcher, @r4shsec, reverse engineered the compromised package, durabletask==1.4.1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mini_shai_hulud_reverse_engineering_part_2/feature.png" />
+    </item>
+    
+    <item>
+      <title>Reverse Engineering the Mini Shai-Hulud Worm Affecting Mistral==2.4.6 (Part 1)</title>
+      <link>http://localhost:1313/posts/mistral_worm_reverse_engineering/</link>
+      <pubDate>Tue, 12 May 2026 18:32:40 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/mistral_worm_reverse_engineering/</guid>
+      <description>This blog provides details regarding the Mini Shai-Hulud Worm after a cybersecurity researcher, @r4shsec, reverse engineered the compromised package, mistral==2.4.6.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mistral_worm_reverse_engineering/feature.png" />
+    </item>
+    
+    <item>
+      <title>How Discord and Canva May Doxx You!</title>
+      <link>http://localhost:1313/posts/how_canva_and_discord_may_doxx_you/</link>
+      <pubDate>Thu, 07 May 2026 18:11:23 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/how_canva_and_discord_may_doxx_you/</guid>
+      <description>This blog post demonstrates how metadata retained by Discord after making images in Canva might be used to leak your personal information and how to prevent it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_canva_and_discord_may_doxx_you/feature.png" />
+    </item>
+    
+    <item>
+      <title>How to Remove Age Verification on systemd</title>
+      <link>http://localhost:1313/posts/how_to_remove_systemd_age_verification/</link>
+      <pubDate>Sat, 21 Mar 2026 15:37:52 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/how_to_remove_systemd_age_verification/</guid>
+      <description>This is a demonstration for Linux users on how you could remove age verification on systemd.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_to_remove_systemd_age_verification/feature.png" />
+    </item>
+    
+    <item>
+      <title>Censorship in Malaysia — List of Websites Blocked Since 2026</title>
+      <link>http://localhost:1313/posts/censorship_in_malaysia/</link>
+      <pubDate>Thu, 19 Mar 2026 20:47:05 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/censorship_in_malaysia/</guid>
+      <description>This blog explains how the Malaysian Communications and Multimedia Commission (MCMC) restrict websites and the list of websites blocked in Malaysia in 2026.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/censorship_in_malaysia/feature.png" />
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 15 Feb 2026 19:20:11 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>The about page for @R4shSec</description>
+      
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Sat, 24 Jan 2026 12:17:15 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Data Collection&#xD;&#xA;    &lt;div id=&#34;data-collection&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#data-collection&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;We &lt;strong&gt;do not sell your data to third-parties neither do we collect your data&lt;/strong&gt; directly for marketing or sales purposes. However, we use third-party services to understand our site performance and provide interactive features.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Public Interest &amp;amp; Research Data&#xD;&#xA;    &lt;div id=&#34;public-interest--research-data&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#public-interest--research-data&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;As a security-focused blog, some content may contain data related to specific individuals, entities, or organizations. This data is:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Collected from &lt;strong&gt;publicly available sources&lt;/strong&gt; and open-source intelligence (OSINT).&lt;/li&gt;&#xA;&lt;li&gt;Published for the purpose of &lt;strong&gt;public awareness, education, and the prevention of fraudulent activity&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Handled in accordance with fair use and journalistic principles intended to protect the public interest.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Third-Party Services&#xD;&#xA;    &lt;div id=&#34;third-party-services&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#third-party-services&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;We use the following services to host and improve our site. These services may collect technical information to function:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub Pages:&lt;/strong&gt; Our site is hosted on GitHub. They may collect server logs, including your IP address, to prevent abuse and ensure the security of the service.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Google Analytics:&lt;/strong&gt; We use this to see how many people visit our site and which posts are popular. It uses cookies to track things like your browser type and how long you stay on a page. You can opt-out using the &lt;a href=&#34;https://tools.google.com/dlpage/gaoptout&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Google Analytics Opt-out Browser Add-on&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Firebase:&lt;/strong&gt; We use Firebase to power site features like &amp;ldquo;Views&amp;rdquo; and &amp;ldquo;Likes.&amp;rdquo; Firebase may collect certain identifiers (such as mobile advertising identifiers or Instance IDs) to provide these analytics and ensure the app runs smoothly.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For more information on how Google handles data, please see &lt;a href=&#34;https://policies.google.com/technologies/partner-sites&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;How Google uses information from sites or apps that use our services&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Terms of Service (TOS)</title>
+      <link>http://localhost:1313/tos/</link>
+      <pubDate>Sat, 24 Jan 2026 12:17:15 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/tos/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;1. Acceptance of Terms&#xD;&#xA;    &lt;div id=&#34;1-acceptance-of-terms&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#1-acceptance-of-terms&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;By accessing &lt;strong&gt;this page&lt;/strong&gt;, you agree to be bound by these terms. If you do not agree, please do not use this site.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;2. Educational &amp;amp; Research Purpose&#xD;&#xA;    &lt;div id=&#34;2-educational--research-purpose&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#2-educational--research-purpose&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;All content on this blog is provided for &lt;strong&gt;educational and security research purposes only&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The information is intended to help individuals and organizations.&lt;/li&gt;&#xA;&lt;li&gt;I am not responsible for how you use this information.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;3. No Professional Advice&#xD;&#xA;    &lt;div id=&#34;3-no-professional-advice&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#3-no-professional-advice&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;The content on this site does not constitute legal, financial, or professional security advice. I make no guarantees regarding the accuracy or completeness of the data provided. Use the information at your own risk.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;4. Limitation of Liability&#xD;&#xA;    &lt;div id=&#34;4-limitation-of-liability&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#4-limitation-of-liability&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Under no circumstances shall &lt;strong&gt;r4shsec&lt;/strong&gt; be liable for any direct, indirect, or consequential damages resulting from the use or inability to use the information on this site.&lt;/p&gt;&#xA;&#xD;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;5. Intellectual Property&#xD;&#xA;    &lt;div id=&#34;5-intellectual-property&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &#xD;&#xA;    &lt;span&#xD;&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xD;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#5-intellectual-property&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xD;&#xA;    &lt;/span&gt;&#xD;&#xA;    &#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Unless otherwise stated, all written content and original research are the property of &lt;strong&gt;r4shsec&lt;/strong&gt;. You may link to my posts, but you may not republish full articles without express permission.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

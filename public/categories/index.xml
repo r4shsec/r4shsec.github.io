@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on R4shSec</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Tue, 11 Aug 2026 14:41:55 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/categories/privacy/</link>
+      <pubDate>Tue, 11 Aug 2026 14:41:55 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/categories/privacy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reverse Engineering</title>
+      <link>http://localhost:1313/categories/reverse-engineering/</link>
+      <pubDate>Wed, 20 May 2026 21:21:56 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/categories/reverse-engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Censorship</title>
+      <link>http://localhost:1313/categories/censorship/</link>
+      <pubDate>Sat, 21 Mar 2026 15:37:52 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/categories/censorship/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Free Speech</title>
+      <link>http://localhost:1313/categories/free-speech/</link>
+      <pubDate>Thu, 19 Mar 2026 20:47:05 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/categories/free-speech/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

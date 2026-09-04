@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTF on R4shSec</title>
+    <link>https://r4shsec.is-a.dev/categories/ctf/</link>
+    <description>Recent content in CTF on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Sun, 12 Apr 2026 15:13:40 +0800</lastBuildDate><atom:link href="https://r4shsec.is-a.dev/categories/ctf/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>picoCTF WriteUp | ping-cmd</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/ping_cmd/</link>
+      <pubDate>Sun, 12 Apr 2026 15:13:40 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/ping_cmd/</guid>
+      <description>This is a picoCTF WriteUp for picoCTF 2026 ping-cmd.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/ping_cmd/feature.png" />
+    </item>
+    
+    <item>
+      <title>picoCTF WriteUp | DISKO 1</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/disk0_1/</link>
+      <pubDate>Sun, 12 Apr 2026 14:58:19 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/disk0_1/</guid>
+      <description>This is a picoCTF WriteUp for picoGym Exclusive, DISKO 1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/disk0_1/feature.png" />
+    </item>
+    
+    <item>
+      <title>picoCTF WriteUp | Corrupted file</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/corrupted_file/</link>
+      <pubDate>Wed, 04 Mar 2026 20:53:14 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/corrupted_file/</guid>
+      <description>This is a picoCTF writeup for picoMini by CMU-Africa, Corrupted file.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/corrupted_file/feature.png" />
+    </item>
+    
+    <item>
+      <title>picoCTF WriteUp | Crack the Gate 1</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/crack_the_gate_1/</link>
+      <pubDate>Wed, 04 Mar 2026 20:25:33 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/crack_the_gate_1/</guid>
+      <description>This is a writeup about picoCTF, picoMini by CMU-Africa, Crack the Gate 1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/crack_the_gate_1/feature.png" />
+    </item>
+    
+    <item>
+      <title>picoCTF WriteUp | Flag in Flame</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/flag_in_flame/</link>
+      <pubDate>Sun, 01 Mar 2026 18:50:13 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/flag_in_flame/</guid>
+      <description>This is a writeup for picoMini by CMU-Africa, Flag in Flame.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/flag_in_flame/feature.png" />
+    </item>
+    
+    <item>
+      <title>picoCTF WriteUp | Hidden In Plainsight</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/hidden_in_plainsight/</link>
+      <pubDate>Tue, 24 Feb 2026 15:22:58 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/hidden_in_plainsight/</guid>
+      <description>This is a writeup for picoMini by CMU-Africa, Hidden In Plainsight.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/hidden_in_plainsight/feature.png" />
+    </item>
+    
+    <item>
+      <title>picoCTF WriteUp | Log Hunt</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/log_hunt/</link>
+      <pubDate>Tue, 24 Feb 2026 14:59:22 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/log_hunt/</guid>
+      <description>This is a write up for picoMini by CMU-Africa, Log Hunt.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/log_hunt/feature.png" />
+    </item>
+    
+    <item>
+      <title>picoCTF WriteUp | Riddle Registry</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/riddle_registry/</link>
+      <pubDate>Tue, 03 Feb 2026 12:34:15 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/riddle_registry/</guid>
+      <description>This is a picoCTF WriteUp for picoMini by CMU-Africa, Riddle Registry, that&amp;rsquo;s easy to understand and straightforward.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/riddle_registry/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mistral AI on R4shSec</title>
+    <link>http://localhost:1313/tags/mistral-ai/</link>
+    <description>Recent content in Mistral AI on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Tue, 12 May 2026 18:32:40 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/mistral-ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reverse Engineering the Mini Shai-Hulud Worm Affecting Mistral==2.4.6 (Part 1)</title>
+      <link>http://localhost:1313/posts/mistral_worm_reverse_engineering/</link>
+      <pubDate>Tue, 12 May 2026 18:32:40 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/mistral_worm_reverse_engineering/</guid>
+      <description>This blog provides details regarding the Mini Shai-Hulud Worm after a cybersecurity researcher, @r4shsec, reverse engineered the compromised package, mistral==2.4.6.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mistral_worm_reverse_engineering/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

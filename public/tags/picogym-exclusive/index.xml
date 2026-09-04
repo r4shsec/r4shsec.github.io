@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PicoGym Exclusive on R4shSec</title>
+    <link>https://r4shsec.is-a.dev/tags/picogym-exclusive/</link>
+    <description>Recent content in PicoGym Exclusive on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Sun, 12 Apr 2026 14:58:19 +0800</lastBuildDate><atom:link href="https://r4shsec.is-a.dev/tags/picogym-exclusive/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>picoCTF WriteUp | DISKO 1</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/disk0_1/</link>
+      <pubDate>Sun, 12 Apr 2026 14:58:19 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/disk0_1/</guid>
+      <description>This is a picoCTF WriteUp for picoGym Exclusive, DISKO 1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/disk0_1/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

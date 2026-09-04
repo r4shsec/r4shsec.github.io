@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Free Speech on R4shSec</title>
+    <link>http://localhost:1313/categories/free-speech/</link>
+    <description>Recent content in Free Speech on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Thu, 19 Mar 2026 20:47:05 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/free-speech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Censorship in Malaysia — List of Websites Blocked Since 2026</title>
+      <link>http://localhost:1313/posts/censorship_in_malaysia/</link>
+      <pubDate>Thu, 19 Mar 2026 20:47:05 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/censorship_in_malaysia/</guid>
+      <description>This blog explains how the Malaysian Communications and Multimedia Commission (MCMC) restrict websites and the list of websites blocked in Malaysia in 2026.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/censorship_in_malaysia/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

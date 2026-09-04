@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tor Browser on R4shSec</title>
+    <link>http://localhost:1313/tags/tor-browser/</link>
+    <description>Recent content in Tor Browser on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Tue, 11 Aug 2026 14:41:55 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/tor-browser/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Connecting To Snowflake May Deanonymize You.</title>
+      <link>http://localhost:1313/posts/how_connecting_to_snowflake_may_anonymize_you/</link>
+      <pubDate>Tue, 11 Aug 2026 14:41:55 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/how_connecting_to_snowflake_may_anonymize_you/</guid>
+      <description>This blog post covers the privacy risks when connecting to the Tor network via a Snowflake bridge.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_connecting_to_snowflake_may_anonymize_you/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

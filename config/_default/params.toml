@@ -1,0 +1,127 @@
+colorScheme = "one-light"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+enableA11y = false
+enableSearch = true
+enableCodeCopy = true
+enableStructuredBreadcrumbs = false
+replyByEmail = false
+disableImageOptimization = true
+disableImageOptimizationMD = true
+disableTextInHeader = false
+hotlinkFeatureImage = false
+fingerprintAlgorithm = "sha512"
+giteaDefaultServer = "https://git.fsfe.org"
+forgejoDefaultServer = "https://v11.next.forgejo.org"
+fathomAnalytics = { }
+umamiAnalytics = { }
+selineAnalytics = { }
+buymeacoffee = { }
+verification = { }
+rssnext = { }
+advertisement = { }
+robots = "robots"
+defaultBackgroundImage = "background.gif"
+showViews = false
+showLikes = false
+smartTOC = true
+mainSections = ["posts","ctf"]
+
+[firebase]
+apiKey = ""
+projectId = ""
+storageBucket = ""
+messagingSenderId = ""
+appId = ""
+measurementId = ""
+
+[header]
+layout = "fixed-fill-blur"
+
+[footer]
+showMenu = true
+showCopyright = true
+showThemeAttribution = true
+showAppearanceSwitcher = true
+showScrollToTop = true
+
+[homepage]
+layout = "background"
+showRecent = true
+showRecentItems = 5
+showMoreLink = false
+showMoreLinkDest = "/posts/"
+cardView = false
+cardViewScreenWidth = true
+layoutBackgroundBlur = true
+disableHeroImageFilter = false
+
+[article]
+showDate = true
+showViews = false
+showLikes = false
+showDateOnlyInArticle = false
+showDateUpdated = true
+showAuthor = true
+showHero = true
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = false
+showBreadcrumbs = false
+showDraftLabel = true
+showEdit = false
+editAppendPath = true
+seriesOpened = false
+showHeadingAnchors = true
+showPagination = false
+invertPagination = false
+showReadingTime = true
+showTableOfContents = true
+showTaxonomies = true
+showCategoryOnly = false
+showAuthorsBadges = true
+showWordCount = false
+showZenMode = false
+editURL = ""
+heroStyle = "thumbAndBackground"
+showComments = false
+externalLinkForceNewTab = true
+showRelatedContent = ""
+
+[list]
+showHero = true
+heroStyle = "background"
+layoutBackgroundBlur = true
+layoutBackgroundHeaderSpace = true
+showBreadcrumbs = false
+showSummary = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+showCards = false
+orderByWeight = false
+groupByYear = true
+cardView = false
+cardViewScreenWidth = false
+constrainItemsWidth = false
+
+[sitemap]
+excludedKinds = [ "taxonomy", "term" ]
+
+[taxonomy]
+showTermCount = true
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = false
+cardView = false
+
+[term]
+showHero = false
+showBreadcrumbs = false
+showViews = false
+showLikes = false
+showTableOfContents = true
+groupByYear = false
+cardView = false
+cardViewScreenWidth = false

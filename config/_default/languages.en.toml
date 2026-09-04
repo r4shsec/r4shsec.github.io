@@ -1,0 +1,39 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "R4shSec"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "This website is used by cybersecurity content creator, @r4shsec, for blogging, Capture The Flag (CTF) WriteUps, & sharing his findings with the public."
+logo = "icon.png"
+copyright = "© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games"
+
+["params.author"]
+name = "R4shSec"
+email = "r4shsec@protonmail.com"
+bio = "I like it when things work how they're not supposed to."
+image = "author.jpg"
+headline = "Cybersecurity Researcher & Web Developer"
+
+  [["params.author".links]]
+  email = "mailto:r4shsec@protonmail.com"
+
+  [["params.author".links]]
+  github = "https://github.com/r4shsec"
+
+  [["params.author".links]]
+  threads = "https://www.threads.com/@r4sh.sec"
+
+  [["params.author".links]]
+  youtube = "https://youtube.com/@r4shsec"
+
+  [["params.author".links]]
+  x-twitter = "https://www.x.com/r4shsec"
+
+  [["params.author".links]]
+  ko-fi = "https://ko-fi.com/r4shsec"

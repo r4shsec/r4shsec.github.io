@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WriteUps on R4shSec</title>
+    <link>https://r4shsec.is-a.dev/tags/writeups/</link>
+    <description>Recent content in WriteUps on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Tue, 24 Feb 2026 14:59:22 +0800</lastBuildDate><atom:link href="https://r4shsec.is-a.dev/tags/writeups/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>picoCTF WriteUp | Log Hunt</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/log_hunt/</link>
+      <pubDate>Tue, 24 Feb 2026 14:59:22 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/log_hunt/</guid>
+      <description>This is a write up for picoMini by CMU-Africa, Log Hunt.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/log_hunt/feature.png" />
+    </item>
+    
+    <item>
+      <title>picoCTF WriteUp | Riddle Registry</title>
+      <link>https://r4shsec.is-a.dev/ctf/picoctf/riddle_registry/</link>
+      <pubDate>Tue, 03 Feb 2026 12:34:15 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>https://r4shsec.is-a.dev/ctf/picoctf/riddle_registry/</guid>
+      <description>This is a picoCTF WriteUp for picoMini by CMU-Africa, Riddle Registry, that&amp;rsquo;s easy to understand and straightforward.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://r4shsec.is-a.dev/ctf/picoctf/riddle_registry/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

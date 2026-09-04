@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Canva on R4shSec</title>
+    <link>http://localhost:1313/tags/canva/</link>
+    <description>Recent content in Canva on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Thu, 07 May 2026 18:11:23 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/canva/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Discord and Canva May Doxx You!</title>
+      <link>http://localhost:1313/posts/how_canva_and_discord_may_doxx_you/</link>
+      <pubDate>Thu, 07 May 2026 18:11:23 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/how_canva_and_discord_may_doxx_you/</guid>
+      <description>This blog post demonstrates how metadata retained by Discord after making images in Canva might be used to leak your personal information and how to prevent it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_canva_and_discord_may_doxx_you/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

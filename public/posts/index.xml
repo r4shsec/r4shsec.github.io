@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on R4shSec</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on R4shSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>r4shsec@protonmail.com (R4shSec)</managingEditor>
+    <webMaster>r4shsec@protonmail.com (R4shSec)</webMaster>
+    <copyright>© 2026 R4shSec | Theme inspired by VA-11 HALL-A © Sukeban Games</copyright>
+    <lastBuildDate>Tue, 11 Aug 2026 14:41:55 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Connecting To Snowflake May Deanonymize You.</title>
+      <link>http://localhost:1313/posts/how_connecting_to_snowflake_may_anonymize_you/</link>
+      <pubDate>Tue, 11 Aug 2026 14:41:55 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/how_connecting_to_snowflake_may_anonymize_you/</guid>
+      <description>This blog post covers the privacy risks when connecting to the Tor network via a Snowflake bridge.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_connecting_to_snowflake_may_anonymize_you/feature.png" />
+    </item>
+    
+    <item>
+      <title>Reverse Engineering The Mini Shai-Hulud Worm &amp; Defense (Part 2)</title>
+      <link>http://localhost:1313/posts/mini_shai_hulud_reverse_engineering_part_2/</link>
+      <pubDate>Wed, 20 May 2026 21:21:56 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/mini_shai_hulud_reverse_engineering_part_2/</guid>
+      <description>This blog provides details regarding the second variant of the Mini Shai-Hulud Worm after a cybersecurity researcher, @r4shsec, reverse engineered the compromised package, durabletask==1.4.1.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mini_shai_hulud_reverse_engineering_part_2/feature.png" />
+    </item>
+    
+    <item>
+      <title>Reverse Engineering the Mini Shai-Hulud Worm Affecting Mistral==2.4.6 (Part 1)</title>
+      <link>http://localhost:1313/posts/mistral_worm_reverse_engineering/</link>
+      <pubDate>Tue, 12 May 2026 18:32:40 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/mistral_worm_reverse_engineering/</guid>
+      <description>This blog provides details regarding the Mini Shai-Hulud Worm after a cybersecurity researcher, @r4shsec, reverse engineered the compromised package, mistral==2.4.6.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/mistral_worm_reverse_engineering/feature.png" />
+    </item>
+    
+    <item>
+      <title>How Discord and Canva May Doxx You!</title>
+      <link>http://localhost:1313/posts/how_canva_and_discord_may_doxx_you/</link>
+      <pubDate>Thu, 07 May 2026 18:11:23 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/how_canva_and_discord_may_doxx_you/</guid>
+      <description>This blog post demonstrates how metadata retained by Discord after making images in Canva might be used to leak your personal information and how to prevent it.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_canva_and_discord_may_doxx_you/feature.png" />
+    </item>
+    
+    <item>
+      <title>How to Remove Age Verification on systemd</title>
+      <link>http://localhost:1313/posts/how_to_remove_systemd_age_verification/</link>
+      <pubDate>Sat, 21 Mar 2026 15:37:52 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/how_to_remove_systemd_age_verification/</guid>
+      <description>This is a demonstration for Linux users on how you could remove age verification on systemd.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how_to_remove_systemd_age_verification/feature.png" />
+    </item>
+    
+    <item>
+      <title>Censorship in Malaysia — List of Websites Blocked Since 2026</title>
+      <link>http://localhost:1313/posts/censorship_in_malaysia/</link>
+      <pubDate>Thu, 19 Mar 2026 20:47:05 +0800</pubDate>
+      <author>r4shsec@protonmail.com (R4shSec)</author>
+      <guid>http://localhost:1313/posts/censorship_in_malaysia/</guid>
+      <description>This blog explains how the Malaysian Communications and Multimedia Commission (MCMC) restrict websites and the list of websites blocked in Malaysia in 2026.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/censorship_in_malaysia/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
