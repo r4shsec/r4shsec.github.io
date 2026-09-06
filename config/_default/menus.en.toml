@@ -17,15 +17,3 @@ weight = 3
 
 [[footer]]
 none = "none"
-
-[[footer]]
-name = "Terms of Service (TOS)"
-pageRef = "/tos"
-identifier = "LUU3Txeql5"
-weight = 9_999
-
-[[footer]]
-name = "Privacy Policy"
-pageRef = "/privacy"
-identifier = "zoHK6xI1SP"
-weight = 9_999
