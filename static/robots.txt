@@ -1,3 +1,2 @@
-User-agent: *
-Disallow: /*/assets/*
+User-agent: 
 Sitemap: https://r4shsec.is-a.dev/sitemap.xml
