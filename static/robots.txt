@@ -1,2 +1,4 @@
-User-agent: 
+User-agent: ia_archiver
+Disallow: /
+
 Sitemap: https://r4shsec.is-a.dev/sitemap.xml
